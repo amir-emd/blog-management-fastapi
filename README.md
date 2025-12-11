@@ -27,15 +27,15 @@ Designed with modern web development best practices in mind, it leverages FastAP
 2. Set Up a Virtual Environment:
 
    ```bash
-   python -m venv venv
+   python -m venv .venv
    ```
 
    ```bash
    # On Mac/Linux:
-   source venv/bin/activate
+   source .venv/bin/activate
 
    # On Windows:
-   venv\Scripts\activate
+   .venv\Scripts\activate
    ```
 
 3. Install Dependencies:
