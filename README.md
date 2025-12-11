@@ -61,3 +61,7 @@ Designed with modern web development best practices in mind, it leverages FastAP
 2. Access API Documentation:
    - Swagger UI: http://localhost:8000/docs
    - ReDoc: http://localhost:8000/redoc
+
+# 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
